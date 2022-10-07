@@ -1,0 +1,183 @@
+@media only screen and (max-width: 1080px) {
+    header{
+        width: 99%;
+        height: 64px;
+        padding-bottom: 0px;
+    }
+
+    .logo p{
+        display: none;
+    }
+
+    .nav ul{
+        display: none;
+    }
+
+   .one {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-top: 0px;
+    background-color: rgb(239, 236, 236);
+   }
+
+   .img_one {
+      width:100%;
+      margin-left: 0px;
+      margin-right: 0px;
+      padding-top: 0px;
+     margin-bottom: 0px;
+   }
+
+   
+
+   .info {
+   
+    width: 90%;
+    display: block;
+    margin-top: 32px;
+    margin-bottom: 32px;
+    margin-left: 16px;
+
+   }
+
+
+   
+
+   .headings h1{
+    width: 80%;
+    font-size: 2.6rem;
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+   }
+
+
+   
+
+   .text p{
+    width: 80%;
+    font-size: 1.5rem;
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+
+  .button button{
+    width: 90%;
+    margin-top: 0px;
+    padding: 20px 25px;
+    margin-top: 24px;
+    margin-bottom: 32px;  
+}
+
+   .two{
+    width:100%;
+    
+   }
+  
+  .campus_one{
+    display: none;
+  }
+
+  .campus_two{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: 16px;
+  }
+
+  .flex_in{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: white;
+    margin-bottom: 0px;
+    margin-left: 16px;
+    
+  }
+
+  .date h3{
+   font-size: 1.3rem;
+   
+  }
+
+  .date p{
+    width: 100%;
+    font-size: 1.5rem;
+    margin-top: 0px;
+  }
+
+  .three {
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: white;
+  }
+
+  .three h2{
+    text-align: center;
+    margin-top: 32px;
+    margin-bottom: 16px;
+    font-size: 3rem;
+  }
+
+  .container_learn1, .container_learn2{
+    display: flex;
+    flex-direction: column;
+    margin-left: 0px;
+  }
+
+  .container, .start_learning{
+    width: 100%;
+    margin-bottom: 0px;
+    padding: 0px;
+  }
+
+  
+
+  .start_learning img,h5,p{
+    display: none;
+  }
+
+  .start_learning h3{
+    text-align:left;
+    font-size: 2rem;
+    background-color: rgb(239, 236, 236);
+    color: rgb(52, 51, 51);
+    padding-top: 16px;
+    padding-left: 16px;
+    padding-bottom: 24px;
+    width: 100%;
+    margin: 0px;
+  }
+
+  .four {
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+  }
+
+  .four h2{
+    margin-bottom: 16px;
+  }
+
+  .flex_four{
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 100%;
+  }
+
+  .video {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+  }
+
+
+  .video_text,.img_right_flex{
+    display: none;
+  }
+
+}
